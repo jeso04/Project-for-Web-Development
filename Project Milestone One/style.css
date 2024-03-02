@@ -13,4 +13,12 @@ p {
 h2 {
 	text-align: center; /* This aligns the links for the other pages on the websites in the center */
 	
-} 
+}
+
+img {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding:5px;
+	width: 250px;
+	
+}
